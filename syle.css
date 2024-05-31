@@ -1,0 +1,13 @@
+.overall {
+display:flex;
+justify-content:center;
+}
+
+
+.cup-container {
+display:flex;
+justify-content:center;
+width:60%;
+height:200px;
+background:red;
+}
